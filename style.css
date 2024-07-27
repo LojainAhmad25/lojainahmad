@@ -1,0 +1,91 @@
+header {
+    background-image: url(images/hero-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.dancing-script {
+    font-family: 'Dancing Script', cursive;
+}
+
+nav h1 {
+    font-weight: bold;
+    font-size: 34px;
+    color: #ffffff;
+}
+
+.text-yellow {
+    transition: color 0.3s;
+}
+
+.text-yellow:hover {
+    color: #ffbe33;
+}
+
+/* For Navbar Links */
+.nav-link {
+    color: white;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #ffbe33;
+}
+
+/* For Footer Links */
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 5px;
+    transition: color 0.3s; /* Added transition for hover effect */
+}
+
+footer a:hover {
+    color: #ffbe33; /* Hover color */
+}
+
+/* For Icons */
+.text-yellow {
+    transition: color 0.3s;
+}
+
+.text-yellow:hover {
+    color: #ffbe33;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.icons a {
+    cursor: pointer;
+}
+
+.food-item {
+    padding: 12px;
+}
+
+.inner-food-item {
+    border-radius: 5px;
+}
+
+.inner-food-item .img-container {
+    background: #f1f2f3;
+    height: 225px;
+}
+
+.buy-icon {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 5px;
+}
