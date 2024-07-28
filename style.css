@@ -1,5 +1,5 @@
 header {
-    background-image: url(hero-bg.jpg);
+    background-image: url(../hero-bg.jpg);
     background-position: center center;
     background-size: cover;
 }
